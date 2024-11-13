@@ -9,10 +9,6 @@
 </div>
 
 ###
-<br> 
-<img align="right" height="150" src="https://media.tenor.com/0sgVJ-WyTwwAAAAM/sealyx-jellyfish-can%27t-swim-in-the-night.gif"  />
-
-###
 
 <div align="left">
   <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Rust/Rust.png?raw=true" height="50" alt="rust logo"  />
@@ -40,6 +36,9 @@
 ###
 
 <div align="left">
+<img align="right" height="150" src="https://media.tenor.com/0sgVJ-WyTwwAAAAM/sealyx-jellyfish-can%27t-swim-in-the-night.gif"  />
+
+###
 <p>socials, yt,twitch,site,linkedin not done yet</p>
 </div>
 
