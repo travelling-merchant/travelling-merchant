@@ -19,7 +19,7 @@
   <img width="25" />
   <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Html/HTML.png?raw=true" height="50" alt="html logo"  />
   <img width="25" />
-    <img src="https://vtuber-style-logos.vercel.app/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnder-Wiggin2019%2FServiceLogos%2Fmain%2FCSS%E5%AE%8C%E5%85%A8%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%97%E3%81%9F%2FCSS%E5%AE%8C%E5%85%A8%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%97%E3%81%9F.png&w=384&q=75" height="50" alt="css logo"  />
+    <img src="https://vtuber-style-logos.vercel.app/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnder-Wiggin2019%2FServiceLogos%2Fmain%2FCSS%E5%AE%8C%E5%85%A8%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%97%E3%81%9F%2FCSS%E5%AE%8C%E5%85%A8%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%97%E3%81%9F.png&w=384&q=75" height="50" alt="css logo"  /><br>
   <img width="25" />
   <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Angular/Angular.png?raw=true" height="50" alt="angular logo"  />
   <img width="25" />
