@@ -1,5 +1,5 @@
 ![MasterHead](https://i0.wp.com/beneaththetangles.com/wp-content/uploads/2024/04/Jellyfish-Cant-Swim-at-Night12.jpg?resize=1400%2C400&ssl=1)
-<h2 align="left">Hi 👋! My name is Ling and I'm a fullstack developer I think, from ....ah who the fuck cares</h2>
+<h2 align="left">Hi My name is Ling and I'm a fullstack developer I think, from ....ah who the fuck cares ❄ ❄ ❄</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 </div>
 
 ###
-
+<br> 
 <img align="right" height="150" src="https://media.tenor.com/0sgVJ-WyTwwAAAAM/sealyx-jellyfish-can%27t-swim-in-the-night.gif"  />
 
 ###
