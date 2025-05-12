@@ -1,6 +1,7 @@
 ![MasterHead](https://i0.wp.com/beneaththetangles.com/wp-content/uploads/2024/04/Jellyfish-Cant-Swim-at-Night12.jpg?resize=1400%2C400&ssl=1)
-<h2 align="left">Hi My name is  ❄ ❄ ❄ ❄  and I'm a fullstack developer I think, from ....ah who the fuck cares ❄ ❄ ❄ </h2>
+<h2 align="left">Hi My name is  ❄ ❄ ❄ ❄  and I'm a fullstack developer I think, from ....ah who the fuck cares ❄ ❄ ❄ ❄ </h2>
 
+<p></p>
 ###
 
 <div align="center">
@@ -13,15 +14,7 @@
 <div align="left">
   <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Rust/Rust.png?raw=true" height="50" alt="rust logo"  />
   <img width="25" />
-  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C%23/C%23.png?raw=true" height="50" alt="csharp logo"  />
-  <img width="25" />
-  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/React/React.png?raw=true" height="50" alt="react logo"  />
-  <img width="25" />
-  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Html/HTML.png?raw=true" height="50" alt="html logo"  />
-  <img width="25" />
     <img src="https://vtuber-style-logos.vercel.app/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FEnder-Wiggin2019%2FServiceLogos%2Fmain%2FCSS%E5%AE%8C%E5%85%A8%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%97%E3%81%9F%2FCSS%E5%AE%8C%E5%85%A8%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%97%E3%81%9F.png&w=384&q=75" height="50" alt="css logo"  /><br>
-  <img width="25" />
-  <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Angular/Angular.png?raw=true" height="50" alt="angular logo"  />
   <img width="25" />
   <img src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/Neovim/NeovimLogo.png?raw=true" height="50" alt="vim logo"  />
   <img width="22" />
