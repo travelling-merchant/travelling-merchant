@@ -2,22 +2,8 @@
 <h2 align="left">hi my name is  ❄ ❄ ❄ ❄  and i'm a fullstack developer (i think), from ....ah who the fuck cares ❄ ❄ ❄ ❄ </h2>
 
 ###
-<style>
-.poem{
-  width:50%;
-}
-.picu{
-  width:50%;
-}
-@media (max-aspect-ratio:16/9){
-  .poem{
-    width:100%;
-  }
-  .picu{
-    width:100%;
-  }
-}
-</style>
+
+<br>
 <p>
 Hark, I shall declare with solemn conviction: Rust is the tongue in which I choose to commit my coding misdeeds. Nay, not merely a language, but our sacred religion—our new glorious savior of syntax and 
 performance.
@@ -42,7 +28,7 @@ Together, we shall tread the way to that radiant horizon where "Fully Automated 
 
 ###
 
-<div class="poem"><p>
+<div style="width:50%"><p>
 
 First they came for the Communists
 And I did not speak out
@@ -64,7 +50,7 @@ To speak out for me
 
 </p>
 </div>
-<div class="picu">
+<div style="width:50%">
   <img src="./pictures/communist_queer.png" height="50" alt="rust logo"  />
   <!--<img src="./pictures/Rust.png" height="50" alt="rust logo"  />-->
 <!--  <img width="25" />
